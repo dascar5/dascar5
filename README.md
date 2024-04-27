@@ -2,7 +2,6 @@
     <img width="1273" src="https://github.com/dascar5/dascar5/blob/main/hi.png">
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=`.dascar5)
 [![Github](https://img.shields.io/github/followers/dascar5?label=Follow&style=social)](https://github.com/dascar5)
 
 
